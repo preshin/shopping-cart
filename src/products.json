@@ -1,0 +1,52 @@
+[
+  {
+    "brandName": "Xiaomi",
+    "productName": "Xiaomi Mi A3 (Not just Blue, 4GB RAM, AMOLED Display, 64GB Storage, 4030mAH Battery)",
+    "quantity": "1 qty",
+    "price": "15000",
+    "mrf": "13000",
+    "imageUrl": "https://m.media-amazon.com/images/I/81duLAWicbL._AC_UY218_ML3_.jpg",
+    "offerText": "13%",
+    "productId": 1
+  },
+  {
+    "brandName": "Nokia",
+    "productName": "Nokia 6.1 Plus (Blue, 6GB RAM, 64GB Storage)",
+    "quantity": "1 qty",
+    "price": "20000",
+    "mrf": "10000",
+    "imageUrl": "https://m.media-amazon.com/images/I/61UXDdyLTxL._AC_UY218_ML3_.jpg",
+    "offerText": "50%",
+    "productId": 2
+  },
+  {
+    "brandName": "Samsung",
+    "productName": "Samsung Galaxy M30s (Sapphire Blue, 4GB RAM, Super AMOLED Display, 64GB Storage, 6000mAH Battery)",
+    "quantity": "1 qty",
+    "price": "15500",
+    "mrf": "14000",
+    "imageUrl": "https://m.media-amazon.com/images/I/71EvOK7BhuL._AC_UY218_ML3_.jpg",
+    "offerText": "10%",
+    "productId": 3
+  },
+  {
+    "brandName": "Honor",
+    "productName": "Honor 20i (Phantom Blue, 128GB Storage, Triple AI Camera)",
+    "quantity": "1 qty",
+    "price": "17000",
+    "mrf": "12000",
+    "imageUrl": "https://m.media-amazon.com/images/I/71qHYKz80GL._AC_UY218_ML3_.jpg",
+    "offerText": "29%",
+    "productId": 4
+  },
+  {
+    "brandName": "Redmi",
+    "productName": "Redmi 7 (Lunar Red, 2GB RAM, SD 632, 32GB Storage, 4000mAH Battery)",
+    "quantity": "1 qty",
+    "price": "10000",
+    "mrf": "7000",
+    "imageUrl": "https://m.media-amazon.com/images/I/61P-+dWuq+L._AC_UY218_ML3_.jpg",
+    "offerText": "30%",
+    "productId": 5
+  }
+]
