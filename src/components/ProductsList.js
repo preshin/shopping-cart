@@ -18,6 +18,7 @@ class ProductsList extends Component {
     this.context.updateProductList(productDatawithCount)
     })
     .catch(err => {
+      this.context.updateProductList(null)
       console.log("Error Reading data " + err);
     });
   }
@@ -28,6 +29,12 @@ class ProductsList extends Component {
       <div style={{height: "90vh", overflow: "scroll"}}>
           {productsList && productsList.map(product=>
             <Product product={product} key={product.productId}/>
+          )}
+          {!productsList && (
+            <div className="no-data">
+              <h2>No data to Load</h2>
+              <p>Refresh page after sometime.</p>
+            </div>
           )}
           </div>
      );

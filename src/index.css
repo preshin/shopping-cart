@@ -151,3 +151,8 @@ html {
   font-size: calc(8px + 2vmin);
   color: black;
 }
+
+.no-data{
+    text-align: center;
+    padding: 35px;
+}
